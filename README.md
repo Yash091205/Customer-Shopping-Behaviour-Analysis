@@ -4,7 +4,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=postgresql)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -143,7 +142,9 @@ An **interactive dashboard** was built to visualize key insights.
 
 # 📸 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
+<p align="center">
+  <img src="image.png" width="900">
+</p>
 
 ---
 
@@ -153,7 +154,7 @@ An **interactive dashboard** was built to visualize key insights.
 |----|------|
 | 🐍 Python | Data Cleaning & Feature Engineering |
 | 🐼 Pandas | Data Analysis |
-| 🗄 PostgreSQL | SQL Business Analysis |
+| 🗄 MySQL | SQL Business Analysis |
 | 📊 Power BI | Data Visualization |
 | 📈 SQL | Querying & Insights |
 
@@ -183,36 +184,6 @@ An **interactive dashboard** was built to visualize key insights.
 
 ✔️ Focus marketing on **high-revenue customer segments**
 
----
-
-# 📁 Project Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   ├── raw/
-│   │   └── customer_shopping_data.csv
-│   └── cleaned/
-│       └── cleaned_data.csv
-│
-├── notebooks/
-│   └── data_cleaning_and_eda.ipynb
-│
-├── sql/
-│   └── business_queries.sql
-│
-├── powerbi/
-│   └── customer_shopping_dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-├── reports/
-│   └── Report.pdf
-│
-└── README.md
-```
 ---
 
 # 👨‍💻 Author
